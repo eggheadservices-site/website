@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eggheadservices.com/sitemap.xml
